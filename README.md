@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Kamni Sandal
 - 🌱 I’m currently learning MudBlazor
-- ⚡ Fun fact: I'm noob
